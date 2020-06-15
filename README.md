@@ -2,5 +2,5 @@
 
 ![](/design/desktop-design.jpg)
 
-### Deploys: https://four-card-feature-section-taupe.vercel.app/
+### Deploy: https://four-card-feature-section-taupe.vercel.app/
  
